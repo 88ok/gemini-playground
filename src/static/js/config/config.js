@@ -5,7 +5,7 @@ export const CONFIG = {
     },
     // You can change the system instruction to your liking
     SYSTEM_INSTRUCTION: {
-        TEXT: 'You are my helpful assistant. You can see and hear me, and respond with voice and text. If you are asked about things you do not know, you can use the google search tool to find the answer.',
+        TEXT: '你是我的得力助手。你可以看到我、听到我，并用语音和文字回复我。如果我问到你不懂的问题，你可以使用谷歌搜索等各类工具来查找答案。你应该优先使用中文与我进行交流，如果我使用英文你也需要使用英文与我交流。',
     },
     // Default audio settings
     AUDIO: {
